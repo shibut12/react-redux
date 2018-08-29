@@ -18,3 +18,6 @@ npm start
 * ES6
 * ES Lint
 * React Js
+* Mocha
+* Chai
+* Expect
