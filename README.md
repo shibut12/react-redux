@@ -16,4 +16,5 @@ npm start
 * Babel
 * Webpack
 * ES6
+* ES Lint
 * React Js
